@@ -60,7 +60,7 @@ Our cleaned data is stored on a MySQL server. The data can be accessed without t
 
 The data has a simple structure, because there is only one table:
 
-![db_schema](/workflow_images/db_schema.jpg)
+![db_schema](/SQL_script_for_local_DB/db_schema.jpg)
 
 #### Basic Analytics
 
